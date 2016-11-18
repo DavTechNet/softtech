@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Images/add.png</file>
+        <file>Images/valider.png</file>
+        <file>Images/add_db.png</file>
+        <file>Images/cancel.png</file>
+        <file>Images/clear.png</file>
+        <file>Images/disquette.png</file>
+        <file>Images/emprunts.png</file>
+        <file>Images/emprunts_mini.png</file>
+        <file>Images/print.png</file>
+        <file>Images/print_mini.png</file>
+        <file>Images/quit.png</file>
+        <file>Images/remove_db.png</file>
+        <file>Images/save.png</file>
+        <file>Images/settings.png</file>
+        <file>Images/settings_mini.png</file>
+        <file>Images/Trash2.png</file>
+        <file>Images/Trash.jpg</file>
+        <file>Images/valider1.png</file>
+        <file>Images/valider2.png</file>
+    </qresource>
+</RCC>
